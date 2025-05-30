@@ -1,5 +1,5 @@
 
-#Helorrayne e Wanderson Mello
+# Helorrayne e Wanderson Mello
 # Operações morfológicas
 import cv2
 import numpy as np
